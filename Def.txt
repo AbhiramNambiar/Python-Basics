@@ -1,0 +1,8 @@
+CLASS
+
+Collection of data members and member functions.
+
+
+OBJECT
+
+Access and communicate data members and member functions.
